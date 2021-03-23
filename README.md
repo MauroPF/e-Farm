@@ -1,8 +1,13 @@
 
-# e-Farm
+# e-Zoo
 
-ENG -> App aimed at the youngest to view different animals.
+### ENGLISH
+App aimed at the youngest to view different animals.
 
-ESP -> App orientada a los más jovenes para visualizar diferentes animales.
+### SPANISH
+App orientada a los más jovenes para visualizar diferentes animales.
 
-![d2f3ada1da5106ed23cc46208a42224b](https://user-images.githubusercontent.com/55792897/111965210-c6b05e80-8af5-11eb-8b05-a8611df7c4d3.png)
+*PREVIEW: https://drive.google.com/file/d/1kct-j0LkU_-hPOk81fsIyJw43211f5Fu/view?usp=sharing*
+
+![1](https://user-images.githubusercontent.com/55792897/112226690-c7004500-8c2e-11eb-9913-cc72ade4176d.png)
+![2](https://user-images.githubusercontent.com/55792897/112226693-c8317200-8c2e-11eb-8805-75ab07f131c7.png)
